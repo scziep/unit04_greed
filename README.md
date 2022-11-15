@@ -1,0 +1,2 @@
+GREED
+This fun game allows the player to try and collect as many gems as possible while avoiding the rocks. The gems count for 1 point and the rocks count for -1 point. The player can play as long as the want. 
